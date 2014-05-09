@@ -1,0 +1,13 @@
+E:\Guadi.ALL\Guadi.Product.Models\bin\Debug\Guadi.Product.Models.dll
+E:\Guadi.ALL\Guadi.Product.Models\bin\Debug\Guadi.Product.Models.pdb
+E:\Guadi.ALL\Guadi.Product.Models\bin\Debug\Guadi.Common.Data.dll
+E:\Guadi.ALL\Guadi.Product.Models\bin\Debug\Guadi.Common.Tools.dll
+E:\Guadi.ALL\Guadi.Product.Models\bin\Debug\Newtonsoft.Json.dll
+E:\Guadi.ALL\Guadi.Product.Models\bin\Debug\EntityFramework.dll
+E:\Guadi.ALL\Guadi.Product.Models\bin\Debug\Guadi.Common.Tools.pdb
+E:\Guadi.ALL\Guadi.Product.Models\bin\Debug\Guadi.Common.Data.pdb
+E:\Guadi.ALL\Guadi.Product.Models\bin\Debug\Newtonsoft.Json.xml
+E:\Guadi.ALL\Guadi.Product.Models\bin\Debug\EntityFramework.xml
+E:\Guadi.ALL\Guadi.Product.Models\obj\Debug\Guadi.Product.Models.csprojResolveAssemblyReference.cache
+E:\Guadi.ALL\Guadi.Product.Models\obj\Debug\Guadi.Product.Models.dll
+E:\Guadi.ALL\Guadi.Product.Models\obj\Debug\Guadi.Product.Models.pdb

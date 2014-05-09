@@ -1,0 +1,15 @@
+E:\Guadi.ALL\Guadi.Product.DAO\bin\Debug\Guadi.Product.DAO.dll
+E:\Guadi.ALL\Guadi.Product.DAO\bin\Debug\Guadi.Product.DAO.pdb
+E:\Guadi.ALL\Guadi.Product.DAO\obj\Debug\Guadi.Product.DAO.dll
+E:\Guadi.ALL\Guadi.Product.DAO\obj\Debug\Guadi.Product.DAO.pdb
+E:\Guadi.ALL\Guadi.Product.DAO\obj\Debug\Guadi.Product.DAO.csprojResolveAssemblyReference.cache
+E:\Guadi.ALL\Guadi.Product.DAO\bin\Debug\Guadi.Common.Data.dll
+E:\Guadi.ALL\Guadi.Product.DAO\bin\Debug\Guadi.Common.Tools.dll
+E:\Guadi.ALL\Guadi.Product.DAO\bin\Debug\Guadi.Product.Models.dll
+E:\Guadi.ALL\Guadi.Product.DAO\bin\Debug\Newtonsoft.Json.dll
+E:\Guadi.ALL\Guadi.Product.DAO\bin\Debug\EntityFramework.dll
+E:\Guadi.ALL\Guadi.Product.DAO\bin\Debug\Guadi.Common.Tools.pdb
+E:\Guadi.ALL\Guadi.Product.DAO\bin\Debug\Guadi.Common.Data.pdb
+E:\Guadi.ALL\Guadi.Product.DAO\bin\Debug\Guadi.Product.Models.pdb
+E:\Guadi.ALL\Guadi.Product.DAO\bin\Debug\Newtonsoft.Json.xml
+E:\Guadi.ALL\Guadi.Product.DAO\bin\Debug\EntityFramework.xml

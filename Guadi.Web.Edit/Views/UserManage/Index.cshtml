@@ -1,0 +1,60 @@
+﻿@{
+    ViewBag.Title = "首页";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="demo-info">
+    <div>
+        用户昵称:<input class="easyui-validatebox" type="text" name="name">
+			<a href="#" class="easyui-linkbutton" iconCls="icon-search">Search</a>
+    </div>
+</div>
+<div style="margin: 10px 0;"></div>
+<table id="dg" title="Custom DataGrid Pager"
+    data-options="rownumbers:true,singleSelect:true,pagination:true,url:'/usermanage/getuserlist',method:'get'">
+    <thead>
+        <tr>
+            <th data-options="field:'Id'">Item ID</th>
+            <th data-options="field:'NickName'">Product</th>
+            <th data-options="field:'ContractEmail',align:'right'">List Price</th>
+            <th data-options="field:'ContractNumber',align:'right'">Unit Cost</th>
+            <th data-options="field:'Level'">Attribute</th>
+            <th data-options="field:'Status',align:'center'">Status</th>
+        </tr>
+    </thead>
+</table>
+@section scripts
+{
+    <script type="text/javascript">
+        $(function () {
+            var pager = $('#dg').datagrid().datagrid('getPager');	// get the pager of datagrid
+            pager.pagination({
+                buttons: [{
+                    iconCls: 'icon-search',
+                    handler: function () {
+                        alert('search');
+                    }
+                }, {
+                    iconCls: 'icon-add',
+                    handler: function () {
+                        location.href = "/productmanage/add";
+                    }
+                }, {
+                    iconCls: 'icon-edit',
+                    handler: function () {
+                        var row = $("#dg").datagrid('getSelected');
+                        if (row == null) {
+                            alert("请选择一项!");
+                            return;
+                        }
+                        var editId = row.Id;
+                        alert(editId);
+
+                    }
+                }]
+            });
+        })
+    </script>
+}
+
+
+

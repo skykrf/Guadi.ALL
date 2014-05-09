@@ -1,0 +1,6 @@
+E:\Guadi.ALL\Guadi.Common.Tools\bin\Debug\Guadi.Common.Tools.dll
+E:\Guadi.ALL\Guadi.Common.Tools\bin\Debug\Guadi.Common.Tools.pdb
+E:\Guadi.ALL\Guadi.Common.Tools\obj\Debug\Guadi.Common.Tools.dll
+E:\Guadi.ALL\Guadi.Common.Tools\obj\Debug\Guadi.Common.Tools.pdb
+E:\Guadi.ALL\Guadi.Common.Tools\bin\Debug\Newtonsoft.Json.dll
+E:\Guadi.ALL\Guadi.Common.Tools\bin\Debug\Newtonsoft.Json.xml

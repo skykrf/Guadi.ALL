@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>@ViewBag.Title -采编系统</title>
+    <link rel="stylesheet" type="text/css" href="http://static.guadi.com/themes/default/easyui.css">
+    <link rel="stylesheet" type="text/css" href="http://static.guadi.com/themes/icon.css">
+    <link rel="stylesheet" type="text/css" href="http://static.guadi.com/demo.css">
+    @RenderSection("css", false)
+</head>
+<body class="easyui-layout">
+    <div data-options="region:'north',border:false" style="height: 60px; background:#f5f5f5; padding: 10px">
+        @Html.Action("Head", "Partial")
+    </div>
+    <div data-options="region:'west',split:true,title:'菜单'" style="width: 200px; padding: 10px;">
+        @Html.Action("Left","Partial")
+    </div>
+    <div data-options="region:'south',border:false" style="height: 50px; background:#f5f5f5; padding: 10px;">
+        @Html.Action("Foot","Partial")
+    </div>
+    <div data-options="region:'center',title:'Center'">
+        @RenderBody()
+    </div>
+</body>
+<script type="text/javascript" src="http://static.guadi.com/jquery.min.js?"></script>
+<script type="text/javascript" src="http://static.guadi.com/jquery.easyui.min.js?"></script>
+@RenderSection("scripts", false)
+</html>

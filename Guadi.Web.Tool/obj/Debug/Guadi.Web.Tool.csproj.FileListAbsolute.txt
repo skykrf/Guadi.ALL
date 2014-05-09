@@ -1,0 +1,7 @@
+E:\Guadi.ALL\Guadi.Web.Tool\bin\Debug\Guadi.Web.Tool.dll
+E:\Guadi.ALL\Guadi.Web.Tool\bin\Debug\Guadi.Web.Tool.pdb
+E:\Guadi.ALL\Guadi.Web.Tool\bin\Debug\System.Web.Mvc.Composition.dll
+E:\Guadi.ALL\Guadi.Web.Tool\bin\Debug\System.Web.Mvc.Composition.xml
+E:\Guadi.ALL\Guadi.Web.Tool\obj\Debug\Guadi.Web.Tool.csprojResolveAssemblyReference.cache
+E:\Guadi.ALL\Guadi.Web.Tool\obj\Debug\Guadi.Web.Tool.dll
+E:\Guadi.ALL\Guadi.Web.Tool\obj\Debug\Guadi.Web.Tool.pdb

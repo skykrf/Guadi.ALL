@@ -1,0 +1,16 @@
+E:\Guadi.ALL\Guadi.Common\bin\Debug\EntityFramework.dll
+E:\Guadi.ALL\Guadi.Common\bin\Debug\EntityFramework.SqlServer.dll
+E:\Guadi.ALL\Guadi.Common\bin\Debug\System.Web.Mvc.Composition.dll
+E:\Guadi.ALL\Guadi.Common\bin\Debug\EntityFramework.xml
+E:\Guadi.ALL\Guadi.Common\bin\Debug\EntityFramework.SqlServer.xml
+E:\Guadi.ALL\Guadi.Common\bin\Debug\System.Web.Mvc.Composition.xml
+E:\Guadi.ALL\Guadi.Common\bin\Debug\Guadi.Common.Data.dll.config
+E:\Guadi.ALL\Guadi.Common\bin\Debug\Guadi.Common.Data.dll
+E:\Guadi.ALL\Guadi.Common\bin\Debug\Guadi.Common.Data.pdb
+E:\Guadi.ALL\Guadi.Common\obj\Debug\Guadi.Common.Data.dll
+E:\Guadi.ALL\Guadi.Common\obj\Debug\Guadi.Common.Data.pdb
+E:\Guadi.ALL\Guadi.Common\obj\Debug\Guadi.Common.Data.csprojResolveAssemblyReference.cache
+E:\Guadi.ALL\Guadi.Common\bin\Debug\Guadi.Common.Tools.dll
+E:\Guadi.ALL\Guadi.Common\bin\Debug\Guadi.Common.Tools.pdb
+E:\Guadi.ALL\Guadi.Common\bin\Debug\Newtonsoft.Json.dll
+E:\Guadi.ALL\Guadi.Common\bin\Debug\Newtonsoft.Json.xml
